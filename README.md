@@ -1,5 +1,10 @@
 # Reading Progress Indicator
+
+<img src="screenshots/screenshot-1.png">
+
+
 === Reading Progress Indicator ===
+
 Contributors: merve
 Tags: reading progress, progress bar, scroll indicator, reading bar, congratulations
 Requires at least: 5.8
